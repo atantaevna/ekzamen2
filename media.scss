@@ -1,0 +1,226 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media (max-width: 1200px) {
+  #header .header h1 {
+    margin-left: 2px;
+  }
+}
+
+@media (max-width: 1024px) {
+  #hero .hero .hero--right h1 {
+    font-size: 48px;
+  }
+  #your .your img {
+    margin-top: -246px;
+  }
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+}
+
+@media (max-width: 992px) {
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px) {
+  #hero .hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+  #pro .pro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  #use .use {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  #project .project {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  @media (max-width: 1024px) {
+    #your .your img {
+      margin-top: -246px;
+    }
+    #your .your img {
+      width: 349px;
+    }
+    #your .your img {
+      margin-top: -173px;
+    }
+    #your .your h1 {
+      font-size: 43px;
+    }
+  }
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 576px) {
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 450px) {
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 400px) {
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 375px) {
+  #swiper .swiper--block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 320px) {
+    #header .header h1 {
+      margin-left: 45px;
+    }
+    #use .use .use--right h1 {
+      font-size: 61px;
+    }
+    #work .work {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+      width: 130%;
+    }
+    #work .work .work--left h1 {
+      font-size: 45px;
+    }
+    #hero .hero .hero--right h1 {
+      font-size: 31px;
+    }
+    #hero .hero .hero--left {
+      width: 272px;
+      height: 246px;
+      background: #C4DEFD;
+    }
+    #pro .pro .pro--right h1 {
+      font-size: 49px;
+    }
+    #pro .pro .pro--left {
+      width: 273px;
+      height: 273px;
+      background: #C4DEFD;
+    }
+    #use .use .use--left {
+      margin-top: 56px;
+      width: 297px;
+      height: 284px;
+      background: #C4DEFD;
+    }
+    #project .project .project--left {
+      width: 301px;
+      height: 299px;
+      background: #C4DEFD;
+    }
+    #swiper .swiper .swiper--text h1 {
+      font-size: 45px;
+    }
+    #swiper .swiper .swiper--text p {
+      font-size: 11px;
+    }
+    #your .your h1 {
+      font-size: 25px;
+    }
+    #your .your p {
+      font-size: 9px;
+    }
+    #data .data {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+    #data .data .data--right h1 {
+      font-size: 40px;
+    }
+
+    #data .data .data--right p {
+      font-size: 10px;
+    }
+    * {
+      width: 100%;
+    }
+
+    element.style {
+    }
+    #our .our h1 {
+      font-size: 44px;
+    }
+    #with .with {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+    #with .with .with--left h1 {
+      font-size: 30px;
+    }
+    #with .with .with--left p {
+      font-size: 14px;
+    }
+    #what .what--block h1 {
+      font-size: 35px;
+    }
+    #footer .footer .footer--name h1 {
+      font-size: 49px;
+    }
+    #footer .footer .footer--niz .foot1 {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      flex-direction: column;
+    }
+    #footer .footer .footer--niz .foot1 {
+      margin-left: -4px;
+    }
+  }
